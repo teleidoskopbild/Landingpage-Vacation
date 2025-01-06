@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="landing-page">
       <video autoPlay loop muted className="background-video">
-        <source src="public/background.mp4" type="video/mp4" />
+        <source src="background.mp4" type="video/mp4" />
       </video>
       <div className="content">
         <h1>DISCOVER</h1>
